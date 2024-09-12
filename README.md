@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js, node.js**
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **react.js**, **Django**
 
 - 📫 How to reach me **nirmallohiya999@gmail.com**
 
