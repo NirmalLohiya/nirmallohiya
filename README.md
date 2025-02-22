@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Nirmal</h1>
-<h3 align="center">A passionate worked software developement filed</h3>
+# Nirmal Lohiya
 
-- 🔭 I’m working on front end **ecommerce**
+## Full Stack Developer
 
-- 🌱 I’m currently learning **react.js, node.js**
+I am a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My expertise includes:
 
-- 💬 Ask me about **react.js**, **Django**
+- **Frontend**: JavaScript, React
+- **Backend**: Node.js, Python
+- **AI/ML**: Machine Learning basics
+- **Tools**: Docker, GitHub, Jira, VS Code, Anaconda
 
-- 📫 How to reach me **nirmallohiya999@gmail.com**
+I am committed to building efficient and scalable web applications, and I continuously strive to improve my skills and stay updated with the latest industry trends.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nirmallohiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmallohiya" height="30" width="40" /></a>
-</p>
+### Skills
 
-<h3 align="left">Languages and Tools:</h3>
+| Skill             | Rating |
+|-------------------|--------|
+| JavaScript        | ⭐⭐⭐⭐⭐  |
+| React             | ⭐⭐⭐⭐⭐  |
+| Node.js           | ⭐⭐⭐⭐   |
+| Python            | ⭐⭐⭐⭐   |
+| Machine Learning  | ⭐⭐⭐    |
+| Docker            | ⭐⭐⭐⭐   |
+| GitHub            | ⭐⭐⭐⭐⭐  |
+| Jira              | ⭐⭐⭐⭐   |
 
+Feel free to connect with me on [GitHub](https://github.com/nirmallohiya) or [LinkedIn](https://www.linkedin.com/in/nirmallohiya/).
+
+---
+
+Thank you for visiting my profile!
